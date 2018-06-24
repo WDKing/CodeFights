@@ -10,6 +10,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# bin folder
+bin/
+
 # Package Files #
 *.jar
 *.war
